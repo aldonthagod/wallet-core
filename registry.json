@@ -764,7 +764,7 @@
     "name": "WAX",
     "coinId": 194001,
     "symbol": "WAX",
-    "decimals": 8,
+    "decimals": 4,
     "blockchain": "EOS",
     "derivation": [
       {
